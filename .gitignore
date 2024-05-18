@@ -1,0 +1,5 @@
+# gowatch
+/backend*
+
+# Application data
+/streamfox_home*
